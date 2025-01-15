@@ -61,7 +61,7 @@ L'entanglement completo permette di esplorare uno spazio degli stati quantistici
 
 Sebbene il full entanglement sia vantaggioso, presenta alcuni compromessi:
 1. Numero di porte aumentato:
-	- Con  n  qubit, un'entanglement completo richiede  $\binom{n}{2}$  connessioni (ossia  $\frac{n(n-1)}{2}$ ).
+	- Con  $n$ qubit, un'entanglement completo richiede  $\binom{n}{2}$  connessioni (ossia  $\frac{n(n-1)}{2}$ ).
 	- Questo aumenta il numero totale di porte quantistiche nel circuito, rendendolo più profondo e quindi più suscettibile agli errori.
 2. Rumore hardware:
 	- Nei computer quantistici attuali, il rumore introdotto dall'esecuzione di porte quantistiche può ridurre la qualità dello stato preparato.
