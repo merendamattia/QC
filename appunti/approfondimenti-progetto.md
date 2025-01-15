@@ -66,3 +66,9 @@ Sebbene il full entanglement sia vantaggioso, presenta alcuni compromessi:
 2. Rumore hardware:
 	- Nei computer quantistici attuali, il rumore introdotto dall'esecuzione di porte quantistiche può ridurre la qualità dello stato preparato.
 	- In scenari rumorosi, può essere preferibile un'entanglement più semplice (ad esempio, lineare) per ridurre la profondità del circuito.
+
+# VQE
+https://en.wikipedia.org/wiki/Variational_quantum_eigensolver
+
+# QAOA
+https://en.wikipedia.org/wiki/Quantum_optimization_algorithms#Quantum_approximate_optimization_algorithm
